@@ -15,20 +15,20 @@ Growth of Netflix content over years
 Visualize insights using interactive and static plots.
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Jupyter Notebook.
 
 Data Cleaning Steps:
-Handling missing values
-Splitting multi-value columns (Genre, Cast, Country)
-Converting date_added to datetime
-Creating new calculated columns
-Standardizing text formats
-Removing duplicates
+Handling missing values,
+Splitting multi-value columns (Genre, Cast, Country),
+Converting date_added to datetime,
+Creating new calculated columns,
+Standardizing text formats,
+Removing duplicates.
 
 Conclusion:
 This project provides a complete exploratory analysis of Netflix content and helps understand trends, content strategy, and audience preferences.
